@@ -19,7 +19,7 @@ function DecimalABinario(num) {
   return num.toString(2)
 }
 
-
+//a
 module.exports = {
   BinarioADecimal,
   DecimalABinario,
