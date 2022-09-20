@@ -1,7 +1,7 @@
 "use strict";
 
 // Closures
-
+//a
 function counter() {
   /*
   Ejercicio 1
