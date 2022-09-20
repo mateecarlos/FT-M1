@@ -20,6 +20,7 @@ function Node(value) {
   this.value = value;
   this.next = null;
 }
+//a
 LinkedList.prototype.add = function(data){
 var node = new Node(data)
 if(this.head === null) {
