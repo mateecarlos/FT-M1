@@ -8,7 +8,7 @@ function counter() {
 
   La función counter debe retornar otra función. Esta función retornada debe actuar como un contador, retornando un valor numérico 
   que empieza en 1 e incrementa con cada invocación.
-//a
+//aa
   Ejemplo:
   const nuevoContador = counter()
   nuevoContador()     // 1
